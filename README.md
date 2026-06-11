@@ -10,6 +10,7 @@
 🎓 Formada em Administração  
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🚀 IT Intern na Nidec ACIM. 
+
 🧠 Apaixonada por lógica, organização e resolução de problemas  
 
 Estou construindo minha base técnica com consistência, aprendendo na prática e publicando minha evolução aqui no GitHub.
