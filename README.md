@@ -1,5 +1,5 @@
 
-# 💜✨ Olá, eu sou a Joana Pacheco!
+# Olá, eu sou a Joana Pacheco!
 
 💻 Construindo soluções com dados, lógica e organização.
 
