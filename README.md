@@ -32,6 +32,7 @@ Estou construindo minha base técnica com consistência, aprendendo na prática 
 
 
 Próximos passos:
+- SQL e MySQL
 - JavaScript avançado
 - Python avançado
 - Projetos mais robustos
